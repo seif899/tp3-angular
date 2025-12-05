@@ -1,100 +1,107 @@
-# TP Angular -- Partie 6 & Partie 3
+# TP Angular -- Partie 6 & Partie 3 (Sans Tableaux)
 
 ## Partie 6 --- QCM (Réponses)
 
 ### QCM 1 --- Outils de développement
 
-  Question   Réponse correcte
-  ---------- ------------------
-  1          a
-  2          c
-  3          b
-  4          b
-  5          c
-  6          b
+1.  **a**\
+2.  **c**\
+3.  **b**\
+4.  **b**\
+5.  **c**\
+6.  **b**
+
+------------------------------------------------------------------------
 
 ### QCM 2 --- Création d'un projet Angular
 
-  Question   Réponse correcte
-  ---------- ------------------
-  1          a
-  2          b
-  3          b
-  4          c
-  5          a
+1.  **a**\
+2.  **b**\
+3.  **b**\
+4.  **c**\
+5.  **a**
+
+------------------------------------------------------------------------
 
 ## Partie 3 --- Rapport Comparatif : Angular vs React vs Vue.js
 
 ### Introduction
 
-Les frameworks front-end modernes facilitent le développement
-d'interfaces web interactives.\
-Dans ce rapport, nous comparons Angular, React, et Vue.js.
+Ce rapport compare trois frameworks front-end majeurs : **Angular**,
+**React**, et **Vue.js**.\
+Chaque outil possède ses propres caractéristiques, avantages et limites.
+
+------------------------------------------------------------------------
 
 ## Angular
 
 ### Caractéristiques principales
 
--   Framework complet (Google)\
--   TypeScript\
--   Routage, services, HTTP inclus
+-   Framework complet développé par Google\
+-   Utilise TypeScript\
+-   Inclut routing, services, formulaires, HTTP, CLI\
+-   Structure stricte
 
 ### Avantages
 
--   Solution complète\
 -   Très structuré\
--   Adapté aux grands projets
+-   Solution complète tout-en-un\
+-   Adapté aux grandes applications professionnelles
 
 ### Inconvénients
 
 -   Courbe d'apprentissage élevée\
--   Framework lourd
+-   Framework lourd et complexe
+
+------------------------------------------------------------------------
 
 ## React
 
 ### Caractéristiques principales
 
--   Library JavaScript (Facebook)\
--   JSX\
--   Très flexible
+-   Bibliothèque JavaScript développée par Meta\
+-   Utilise JSX\
+-   Très flexible\
+-   Basé sur les composants et les hooks
 
 ### Avantages
 
--   Grande communauté\
 -   Très performant\
--   Apprentissage modéré
+-   Grande communauté\
+-   Flexibilité élevée
 
 ### Inconvénients
 
--   Nécessite d'ajouter Redux, Router, etc.\
--   Projet moins structuré par défaut
+-   Pas un framework complet (nécessite Redux, Router, etc.)\
+-   Cohésion du projet dépend de l'équipe
+
+------------------------------------------------------------------------
 
 ## Vue.js
 
 ### Caractéristiques principales
 
 -   Framework progressif\
--   Très simple pour débuter
+-   Combine les bonnes idées d'Angular et React\
+-   Très simple à apprendre
 
 ### Avantages
 
--   Facile à apprendre\
--   Très performant
+-   Facile pour les débutants\
+-   Très performant\
+-   Syntaxe claire et intuitive
 
 ### Inconvénients
 
--   Adoption plus faible en entreprise
+-   Adoption plus faible dans les grandes entreprises\
+-   Communauté plus petite que React
 
-## Tableau Comparatif
-
-  Critère         Angular      React        Vue.js
-  --------------- ------------ ------------ ------------
-  Type            Framework    Library      Framework
-  Complexité      Élevée       Moyenne      Faible
-  Performance     Très bonne   Excellente   Excellente
-  Apprentissage   Difficile    Moyen        Facile
+------------------------------------------------------------------------
 
 ## Conclusion
 
-Angular convient aux projets complexes, React aux projets flexibles, et
-Vue aux projets simples et rapides.
+-   **Angular** convient aux projets complexes et structurés.\
+-   **React** est idéal pour les projets nécessitant flexibilité et
+    performance.\
+-   **Vue.js** est parfait pour des projets rapides, simples et
+    accessibles aux débutants.
